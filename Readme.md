@@ -1,12 +1,9 @@
 # 🎨 FreeCodeCamp Frontend Projects | Codepen Portfolio  
 
-[![Profile Views](https://img.shields.io/badge/Profile-Driz7-blue?logo=codepen)](https://codepen.io/Driz7)  
-![Projects](https://img.shields.io/badge/Projects-5-brightgreen)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+[![Profile Views](https://img.shields.io/badge/Profile-Driz7-blue?logo=codepen)](https://codepen.io/Driz7) ![Projects](https://img.shields.io/badge/Projects-5-brightgreen) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+ 
 
-A collection of my interactive web projects created on CodePen. Each project demonstrates different aspects of front-end development and web design.  
+A collection of my freecodecamp frontend projects created on CodePen. Each project demonstrates different aspects of front-end development and web design.  
 
 ## 📌 Featured Projects  
 
@@ -98,14 +95,6 @@ A collection of my interactive web projects created on CodePen. Each project dem
   - **Event handling** to create dynamic user experiences.  
   - **Async operations** (e.g., fetching data or simulating delays).  
   - Local storage to save user preferences or states.  
-
-## 🌟 Features  
-
-- **Responsive designs** for mobile and desktop users.  
-- **Cross-browser compatibility**, ensuring a seamless experience.  
-- **Performance optimization** for fast loading and smooth interactions.  
-- **Modern UI/UX principles** for visually appealing and intuitive interfaces.  
-- Clean and maintainable code with comments and structured organization.  
 
 ---  
 
